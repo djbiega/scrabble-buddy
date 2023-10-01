@@ -1,0 +1,14 @@
+site_name: Scrabble Buddy
+nav:
+  - Home: index.md
+
+theme:
+    name: 'material'
+    palette:
+      primary: 'red'
+      accent: 'red'
+    logo: imgs/scrabble_logo.png
+
+repo_name: 'djbiega/scrabble-buddy'
+repo_url: 'https://github.com/djbiega/scrabble-buddy'
+
